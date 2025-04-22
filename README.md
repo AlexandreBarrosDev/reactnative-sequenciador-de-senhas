@@ -1,0 +1,1 @@
+# reactnative-sequenciador-de-senhas

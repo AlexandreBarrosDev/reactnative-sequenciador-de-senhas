@@ -2,15 +2,16 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
   container: {
-    alignItems: "center",
-    justifyContent: "center",
+    width: 300,
   },
-  text: {
-    fontSize: 30,
+  input: {
+    height: 40,
+    width: "100%",
+    borderRadius: 5,
+    padding: 10,
+    fontSize: 16,
     color: "#222",
-  },
-  image: {
-    margin: 10,
+    backgroundColor: "#ddd",
   },
 });
 
